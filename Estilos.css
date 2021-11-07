@@ -1,0 +1,62 @@
+.table thead{
+    height:76px;
+  }
+  .curso{
+    color: white;
+    background-color: #0d6efd;
+    height: 60px;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bolder;
+  }
+  .valor-titulo{
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    height: 50px;
+  }
+  .valor-titulo2{
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    height: 100px;
+  }
+  .investimento{
+    font-weight: bolder;
+    font-size: 16px;
+    height: 50px;
+  }
+  .periodo{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #0d6efd;
+    height: 60px;
+  }
+  .valores{
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  .cifrao{
+    font-size: 16px;
+  }
+  .valor-maior{
+    font-size: 25px;
+  }
+  .valor-menor{
+    font-size: 16px;
+    ;
+  }
+  .button-inscricao{
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  .row{
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .risco{
+    text-decoration: line-through;
+    text-decoration-thickness: 2px;
+  }
