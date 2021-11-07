@@ -60,3 +60,10 @@
     text-decoration: line-through;
     text-decoration-thickness: 2px;
   }
+  .button-precificacao{
+    font-weight: bolder;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    height: 50px;
+  }
